@@ -1,0 +1,1 @@
+source ~/.virtualenvs/ocr_venv/bin/activate

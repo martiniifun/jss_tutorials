@@ -1,0 +1,12 @@
+names:
+- penguin
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: penguin-detection-qyh4k
+  url: https://universe.roboflow.com/martin-shin-ipe9b/penguin-detection-qyh4k/dataset/1
+  version: 1
+  workspace: martin-shin-ipe9b
+test: test/images
+train: train/images
+val: valid/images
